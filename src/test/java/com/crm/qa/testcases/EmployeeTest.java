@@ -83,19 +83,6 @@ public class EmployeeTest extends TestBase {
 				}
 				
 				
-
-				/*@Test(priority = 4, enabled = true)
-				public void Adusers() throws InterruptedException {
-					LOGGER.info("*******************Step 3 Execution Start**************************");
-					System.out.println("*******************Step 3 Execution Start**************************");
-					emp.CreateEmployee();
-					emp.CreateEmployee();
-					
-					
-					System.out.println("*******************Step 3 Executed Successfully!!!**************************");
-					LOGGER.info("*******************Step 3 Executed Successfully!!!**************************");
-			
-				}*/
 				
 				
 				
