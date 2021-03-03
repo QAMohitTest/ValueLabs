@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="3" passed="3">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="91952" started-at="2021-02-28T19:10:18Z" finished-at="2021-02-28T19:11:50Z">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="91952" started-at="2021-02-28T19:10:18Z" finished-at="2021-02-28T19:11:50Z">
+      <class name="com.crm.qa.testcases.EmployeeTest">
+        <test-method status="PASS" signature="initialization()[pri:0, instance:com.crm.qa.testcases.EmployeeTest@3aeaafa6]" name="initialization" is-config="true" duration-ms="26265" started-at="2021-03-01T00:40:18Z" finished-at="2021-03-01T00:40:44Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- initialization -->
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.crm.qa.testcases.EmployeeTest@3aeaafa6]" name="setUp" is-config="true" duration-ms="6654" started-at="2021-03-01T00:40:44Z" finished-at="2021-03-01T00:40:51Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="VerifyEmployeeNotAdded()[pri:1, instance:com.crm.qa.testcases.EmployeeTest@3aeaafa6]" name="VerifyEmployeeNotAdded" duration-ms="11566" started-at="2021-03-01T00:40:51Z" finished-at="2021-03-01T00:41:02Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- VerifyEmployeeNotAdded -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.crm.qa.testcases.EmployeeTest@3aeaafa6]" name="tearDown" is-config="true" duration-ms="714" started-at="2021-03-01T00:41:02Z" finished-at="2021-03-01T00:41:03Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.crm.qa.testcases.EmployeeTest@3aeaafa6]" name="setUp" is-config="true" duration-ms="6337" started-at="2021-03-01T00:41:03Z" finished-at="2021-03-01T00:41:09Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="VerifyEmployeeDeleted()[pri:2, instance:com.crm.qa.testcases.EmployeeTest@3aeaafa6]" name="VerifyEmployeeDeleted" duration-ms="16158" started-at="2021-03-01T00:41:09Z" finished-at="2021-03-01T00:41:26Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- VerifyEmployeeDeleted -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.crm.qa.testcases.EmployeeTest@3aeaafa6]" name="tearDown" is-config="true" duration-ms="735" started-at="2021-03-01T00:41:26Z" finished-at="2021-03-01T00:41:26Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.crm.qa.testcases.EmployeeTest@3aeaafa6]" name="setUp" is-config="true" duration-ms="6123" started-at="2021-03-01T00:41:26Z" finished-at="2021-03-01T00:41:32Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="VerifyAD()[pri:3, instance:com.crm.qa.testcases.EmployeeTest@3aeaafa6]" name="VerifyAD" duration-ms="14163" started-at="2021-03-01T00:41:32Z" finished-at="2021-03-01T00:41:47Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- VerifyAD -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.crm.qa.testcases.EmployeeTest@3aeaafa6]" name="tearDown" is-config="true" duration-ms="648" started-at="2021-03-01T00:41:47Z" finished-at="2021-03-01T00:41:47Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="uninstallapp()[pri:0, instance:com.crm.qa.testcases.EmployeeTest@3aeaafa6]" name="uninstallapp" is-config="true" duration-ms="2558" started-at="2021-03-01T00:41:47Z" finished-at="2021-03-01T00:41:50Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- uninstallapp -->
+      </class> <!-- com.crm.qa.testcases.EmployeeTest -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
